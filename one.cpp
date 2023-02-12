@@ -121,3 +121,9 @@ int main()
     }
     cout << upper(A, n, s) << " " << lower(A, n, s) << endl;
 }
+/* 
+in:
+8 12
+1 3 5 5 5 7 9 10
+out: 8 7
+*/
